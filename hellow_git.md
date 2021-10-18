@@ -6,4 +6,5 @@ test branch
 
 test branch (the second times)
 
-feature on master
+- feature at `master` branch
+- feature at `dev` branch
